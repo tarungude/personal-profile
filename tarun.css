@@ -1,0 +1,92 @@
+.info{
+    
+    text-align: center;
+    background-color:burlywood;
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.container1{
+    text-align: justify;
+    margin: 20px;
+    padding: 5px;
+    border: 2px solid black;
+    background-color: antiquewhite;
+    color: black;
+    border-radius: 10px;
+}
+.A{
+    text-align: justify;
+    margin: 20px;
+    padding: 5px;
+    border: 2px solid black;
+    background-color: antiquewhite;
+    color: black;
+    border-radius: 10px;
+}
+.B{
+    text-align: justify;
+    margin: 20px;
+    padding: 5px;
+    border: 2px solid black;
+    background-color: antiquewhite;
+    color: black;
+    border-radius: 10px;
+}
+.C{
+    text-align: justify;
+    margin: 20px;
+    padding: 5px;
+    border: 2px solid black;
+    background-color: antiquewhite;
+    color: black;
+    border-radius: 10px;
+}
+.D{
+    text-align: justify;
+    margin: 20px;
+    padding: 5px;
+    border: 2px solid black;
+    background-color: antiquewhite;
+    color: black;
+    border-radius: 10px;
+}
+.E{
+    text-align: justify;
+    margin: 20px;
+    padding: 5px;
+    border: 2px solid black;
+    background-color: antiquewhite;
+    color: black;
+    border-radius: 10px;
+}
+
+.F{
+    text-align: justify;
+    margin: 20px;
+    padding: 5px;
+    border: 2px solid black;
+    background-color: antiquewhite;
+    color: black;
+    border-radius: 10px;
+}
+body{
+    background-color: rgb(247, 183, 131);
+    background-image: url('ganesh.jpeg');
+}
+.z{
+    padding-left: 20px;
+    
+}
+.N{
+    
+        text-align: justify;
+        margin: 20px;
+        padding: 5px;
+        border: 2px solid black;
+        background-color: antiquewhite;
+        color: black;
+        border-radius: 10px;
+}
